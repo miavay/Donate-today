@@ -78,3 +78,62 @@
     color: rgb(94, 59, 59);
     font-size: 25px;
 }
+.donate-plane{
+    text-align: center;
+    font-size: 50px;
+}
+#little-help{
+    text-align: center;
+    font-size: 20px;
+    padding-top: 25px;
+    color: rgb(94, 83, 83);
+}
+.food{
+    border: solid 2px black;
+    display: flex;
+    }
+.plane-details{
+    width: 300px;
+    height: 200px;
+    border: 1px solid gray;
+    text-align: center;
+    box-shadow: 8px 8px 16px gray;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(167, 115, 47);
+    transition: 1s;
+    margin-top: 40px;
+}
+.plane{
+    margin-top: 50px;
+    padding: 50px;
+}
+.icon{
+    padding-bottom: 25px;
+}
+#food{
+    background-color:#f2fc9f;
+}
+#food:hover{
+    background-color: #edbb91;
+    margin-top: -5px;
+}
+#shelter{
+    background-color: #edbb91;
+}
+#shelter:hover{
+    background-color: #da6969;
+    margin-top: -5px;
+}
+#frame{
+    background-color: #da6969;
+}
+#frame:hover{
+    background-color: #b05977;
+    margin-top: -5px;
+}
+.plan-des{
+display: flex;
+justify-content: space-evenly;
+}
+
